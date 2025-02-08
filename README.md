@@ -2,14 +2,14 @@
 # Java Decomposing and Composing Strings
 
 Example composing:
--[] "aaabbbccc" -> "a3b3c3"
--[] "abc" -> "a1b1c1"
--[] "" -> ""
+- "aaabbbccc" -> "a3b3c3"
+- "abc" -> "a1b1c1"
+- "" -> ""
 
 Example decomposing:
--[] "a1b1c1" → "abc"
--[] "a3b2" → "aaabb"
--[] "" → ""
+- "a1b1c1" → "abc"
+- "a3b2" → "aaabb"
+- "" → ""
 
 
 ## Run Locally
